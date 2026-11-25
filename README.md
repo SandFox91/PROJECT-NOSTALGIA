@@ -3,9 +3,9 @@ PROJECT NOSTALGIA
 🎮 A premium retro-inspired EmulationStation theme designed for handheld gaming.
 
 🏙️ Inspired by the atmosphere of 90s Japanese arcades
-💜 Dark premium interface with neon aesthetics
+💜 Dark Premium interface with neon aesthetics
 🕹️ Redesigned system carousel with custom illustrations
-📺 Optimized for 640×480 (4:3) handheld displays
+📺 Designed for 640×480 (4:3) handheld displays
 
 ⸻
 
@@ -22,19 +22,19 @@ KNULLI	theme.xml	Tested
 Pan4Elec	theme.xml	Tested
 dArkOS	theme.xml	Community tested
 dArkOS4Clone	theme.xml	Community tested
-ROCKNIX	theme.xml.rocknix	Not yet tested
+ROCKNIX	theme.xml.rocknix	Community tested
 
 Firmware-specific notes
 
-* KNULLI / Pan4Elec: Use the default theme.xml.
-* dArkOS / dArkOS4Clone: The default configuration supports color schemes and UI scaling. theme.xml.darkos is available as a fallback for older or incompatible configurations.
-* ROCKNIX: Use theme.xml.rocknix instead of the default configuration.
+* KNULLI / Pan4Elec: Use the default theme.xml. No changes required.
+* dArkOS / dArkOS4Clone: The default configuration supports color schemes and UI scaling. theme.xml.darkos is available as a fallback if something doesn’t display correctly.
+* ROCKNIX: Use theme.xml.rocknix. Compatibility has been tested and confirmed by the community on Discord.
 
 Installation
 
-1. Extract the downloaded ZIP.
+1. Download and extract the ZIP archive.
 2. Copy the PROJECT-NOSTALGIA folder into your firmware’s themes directory.
-3. If required, replace theme.xml with the appropriate firmware-specific variant.
+3. If required, replace the default theme.xml with the appropriate firmware-specific variant.
 4. Open EmulationStation and select:
     Start → UI Settings → Theme → Project Nostalgia
 
@@ -59,11 +59,12 @@ On dArkOS, language can be configured manually using the infoLang setting near t
 ✨ Features
 
 * Custom-designed system carousel.
-* Dedicated illustrations for 135+ supported systems.
+* 135+ supported gaming systems.
+* Custom system illustrations.
 * Retro-inspired backgrounds and visual elements.
-* Dark premium interface with neon accents.
+* Dark Premium interface with neon accents.
 * Detailed system information.
-* Game list and game information views.
+* Dedicated game list and game information views.
 * Single navigation sound configuration.
 
 ⸻
@@ -74,7 +75,7 @@ Project Nostalgia is built around a simple idea:
 
 Bringing the atmosphere of classic gaming into a modern handheld experience.
 
-Inspired by the golden age of Japanese arcades, the theme combines nostalgic visual elements with a clean and readable interface.
+Inspired by the golden age of Japanese arcades, the theme combines nostalgic visual elements with a clean, readable and immersive interface.
 
 Every detail is designed to make browsing your retro game collection feel special.
 
@@ -86,6 +87,8 @@ Project Nostalgia is an ongoing community-driven project.
 
 Feedback, suggestions, bug reports and compatibility testing are always welcome.
 
-Thank you to everyone who tests the theme and helps improve it!
+A special thanks to everyone in the Discord community who helped test the theme across different firmware distributions.
+
+Your feedback helps make Project Nostalgia better with every release!
 
 Enjoy the nostalgia.
