@@ -1,28 +1,91 @@
-# PROJECT NOSTALGIA
+PROJECT NOSTALGIA
 
-🎮 A retro-inspired EmulationStation theme for the handheld gaming community.
+🎮 A premium retro-inspired EmulationStation theme designed for handheld gaming.
 
-🏙️ 90s Japanese arcade atmosphere  
-💜 Dark Premium & neon aesthetics  
-📺 Designed for 640×480 (4:3) screens  
+🏙️ Inspired by the atmosphere of 90s Japanese arcades
+💜 Dark premium interface with neon aesthetics
+🕹️ Redesigned system carousel with custom illustrations
+📺 Optimized for 640×480 (4:3) handheld displays
 
-## 📦 Versions & Compatibility
-Download from the **[Releases](https://github.com/SandFox91/PROJECT-NOSTALGIA/releases)** section.
+⸻
 
-**Recommended: `Project-Nostalgia-v0.4-multi-firmware.zip`** (pre-release): one ZIP with a theme file for each firmware.
+📦 Latest Release & Compatibility
 
-| Firmware | File to use | Status |
-|---|---|---|
-| KNULLI, Pan4Elec | `theme.xml` (nothing to change) | Tested |
-| dArkOS, dArkOS4Clone | `theme.xml` (nothing to change) | Tested by the community, with color schemes and UI size |
-| ROCKNIX | `theme.xml.rocknix` (identical copy of `theme.xml`) | Not tested on ROCKNIX yet |
+Download the latest version from the Releases section.
 
-On dArkOS and dArkOS4Clone, the default `theme.xml` works, with color schemes and UI size (tested by the community). `theme.xml.darkos` is only a fallback if something doesn't display correctly.
+Recommended: Project-Nostalgia-v0.6.1-one-sound.zip
 
-### Installation
-Copy the `PROJECT-NOSTALGIA` folder into your firmware's themes folder, then select it in EmulationStation (Start → UI Settings → Theme).
-To use a variant (`theme.xml.rocknix` or `theme.xml.darkos`): delete `theme.xml`, then rename the variant to `theme.xml`.
+The multi-firmware package includes configuration files for different EmulationStation-based firmware distributions.
 
-### Language
-Automatic: the theme follows the EmulationStation language (EN, FR, ES, PT, RU, DE, IT; anything else falls back to English).
-With
+Firmware	Configuration file	Status
+KNULLI	theme.xml	Tested
+Pan4Elec	theme.xml	Tested
+dArkOS	theme.xml	Community tested
+dArkOS4Clone	theme.xml	Community tested
+ROCKNIX	theme.xml.rocknix	Not yet tested
+
+Firmware-specific notes
+
+* KNULLI / Pan4Elec: Use the default theme.xml.
+* dArkOS / dArkOS4Clone: The default configuration supports color schemes and UI scaling. theme.xml.darkos is available as a fallback for older or incompatible configurations.
+* ROCKNIX: Use theme.xml.rocknix instead of the default configuration.
+
+Installation
+
+1. Extract the downloaded ZIP.
+2. Copy the PROJECT-NOSTALGIA folder into your firmware’s themes directory.
+3. If required, replace theme.xml with the appropriate firmware-specific variant.
+4. Open EmulationStation and select:
+    Start → UI Settings → Theme → Project Nostalgia
+
+Language Support
+
+The theme automatically follows the EmulationStation language on supported firmware.
+
+Supported languages:
+
+* English
+* French
+* Spanish
+* Portuguese
+* Russian
+* German
+* Italian
+
+On dArkOS, language can be configured manually using the infoLang setting near the top of theme.xml.
+
+⸻
+
+✨ Features
+
+* Custom-designed system carousel.
+* Dedicated illustrations for 135+ supported systems.
+* Retro-inspired backgrounds and visual elements.
+* Dark premium interface with neon accents.
+* Detailed system information.
+* Game list and game information views.
+* Single navigation sound configuration.
+
+⸻
+
+🎮 Project Philosophy
+
+Project Nostalgia is built around a simple idea:
+
+Bringing the atmosphere of classic gaming into a modern handheld experience.
+
+Inspired by the golden age of Japanese arcades, the theme combines nostalgic visual elements with a clean and readable interface.
+
+Every detail is designed to make browsing your retro game collection feel special.
+
+⸻
+
+❤️ Community & Feedback
+
+Project Nostalgia is an ongoing community-driven project.
+
+Feedback, suggestions, bug reports and compatibility testing are always welcome.
+
+Thank you to everyone who tests the theme and helps improve it!
+
+Enjoy the nostalgia.
