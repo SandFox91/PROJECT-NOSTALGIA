@@ -93,11 +93,15 @@ Your feedback helps make Project Nostalgia better with every release!
 
 Enjoy the nostalgia!
 
-⸻
+## 📸 Screenshots
 
-📸 Screenshots
+### 🎮 System Carousel
 
-🎮 System Carousel
+![PlayStation Carousel](IMG_3163.jpeg)
 
-🕹️ Game List
+![Game Boy Advance Carousel](IMG_3166.jpeg)
+
+### 🕹️ Game List
+
+![Rayman Game List](IMG_3165.jpeg)
 
