@@ -92,3 +92,16 @@ A special thanks to everyone in the Discord community who helped test the theme 
 Your feedback helps make Project Nostalgia better with every release!
 
 Enjoy the nostalgia.
+
+---
+
+## 📸 Screenshots
+
+### 🎮 System Carousel
+
+![Project Nostalgia - Screenshot 1](IMG_3163.jpeg)
+![Project Nostalgia - Screenshot 2](IMG_3165.jpeg)
+
+### 🕹️ Game List
+
+![Project Nostalgia - Screenshot 3](IMG_3166.jpeg)
