@@ -3,9 +3,19 @@ PROJECT NOSTALGIA
 🎮 A premium retro-inspired EmulationStation theme designed for handheld gaming.
 
 🏙️ Inspired by the atmosphere of 90s Japanese arcades
-💜 Dark premium interface with neon aesthetics
+💜 Dark Premium interface with neon aesthetics
 🕹️ Redesigned system carousel with custom illustrations
 📺 Designed for 640×480 (4:3) handheld displays
+
+⸻
+
+📸 Screenshots
+
+🎮 Screenshot 1 – PlayStation System Carousel (IMG_3163.jpeg)
+
+🎮 Screenshot 2 – Game Boy Advance System Carousel (IMG_3166.jpeg)
+
+🕹️ Screenshot 3 – Rayman Game List (IMG_3165.jpeg)
 
 ⸻
 
@@ -62,7 +72,7 @@ On dArkOS, language can be configured manually using the infoLang setting near t
 * Support for 135+ gaming systems.
 * Custom system illustrations.
 * Retro-inspired backgrounds and visual elements.
-* Dark premium interface with neon accents.
+* Dark Premium interface with neon accents.
 * Detailed system information.
 * Dedicated game list and game information views.
 * Single navigation sound configuration.
@@ -92,16 +102,3 @@ A special thanks to everyone in the Discord community who helped test the theme 
 Your feedback helps make Project Nostalgia better with every release!
 
 Enjoy the nostalgia!
-
-## 📸 Screenshots
-
-### 🎮 System Carousel
-
-![PlayStation Carousel](IMG_3163.jpeg)
-
-![Game Boy Advance Carousel](IMG_3166.jpeg)
-
-### 🕹️ Game List
-
-![Rayman Game List](IMG_3165.jpeg)
-
