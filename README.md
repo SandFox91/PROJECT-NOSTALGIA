@@ -11,13 +11,13 @@ PROJECT NOSTALGIA
 
 ## 📸 Screenshots
 
-### 🎮 Screenshot 1 – PlayStation System Carousel
-
-![PlayStation System Carousel](https://raw.githubusercontent.com/SandFox91/PROJECT-NOSTALGIA/main/IMG_3163.jpeg)
-
-### 🎮 Screenshot 2 – Game Boy Advance System Carousel
+### 🎮 Screenshot 1 – Game Boy Advance System Carousel
 
 ![Game Boy Advance System Carousel](https://raw.githubusercontent.com/SandFox91/PROJECT-NOSTALGIA/main/IMG_3166.jpeg)
+
+### 🎮 Screenshot 2 – PlayStation System Carousel
+
+![PlayStation System Carousel](https://raw.githubusercontent.com/SandFox91/PROJECT-NOSTALGIA/main/IMG_3163.jpeg)
 
 ### 🕹️ Screenshot 3 – Rayman Game List
 
