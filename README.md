@@ -91,7 +91,7 @@ A special thanks to everyone in the Discord community who helped test the theme 
 
 Your feedback helps make Project Nostalgia better with every release!
 
-Enjoy the nostalgia.
+Enjoy the nostalgia! 
 
 ---
 
@@ -99,9 +99,9 @@ Enjoy the nostalgia.
 
 ### 🎮 System Carousel
 
-![Project Nostalgia - Screenshot 1](IMG_3163.jpeg)
-![Project Nostalgia - Screenshot 2](IMG_3165.jpeg)
+![PlayStation Carousel](IMG_3163.jpeg)
+![Game Boy Advance Carousel](IMG_3166.jpeg)
 
 ### 🕹️ Game List
 
-![Project Nostalgia - Screenshot 3](IMG_3166.jpeg)
+![Rayman Game List](IMG_3165.jpeg)
