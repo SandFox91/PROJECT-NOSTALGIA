@@ -3,8 +3,11 @@ PROJECT NOSTALGIA
 🎮 A premium retro-inspired EmulationStation theme designed for handheld gaming.
 
 🏙️ Inspired by the atmosphere of 90s Japanese arcades
+
 💜 Dark Premium interface with neon aesthetics
+
 🕹️ Redesigned system carousel with custom illustrations
+
 📺 Designed for 640×480 (4:3) handheld displays
 
 ⸻
