@@ -29,7 +29,7 @@ Inspired by the atmosphere of 90s Japanese arcades, Project Nostalgia brings the
 
 ## 📦 Latest Release & Compatibility
 
-**Project Nostalgia v0.7.6**
+**Project Nostalgia v0.7.7**
 
 Get the latest version, including the multi-firmware package, from the GitHub releases page.
 
@@ -87,6 +87,7 @@ Language selection is automatic on KNULLI, Pan4Elec and ROCKNIX. On dArkOS, the 
 ## ✨ Features
 
 - **Custom System Carousel** – A redesigned carousel with distinctive illustrations for each gaming platform.
+- **6 Theme Colorsets** – Nostalgia original, Violet arcade, Sunset 90s, Cyber ocean, Matrix green, and Crimson pulse.
 - **135+ Supported Systems** – Extensive coverage of classic gaming systems and platforms.
 - **Custom System Illustrations** – Dedicated artwork created to give each system its own visual identity.
 - **Retro-Inspired Visual Design** – Atmospheric backgrounds, arcade-inspired elements and neon accents.
